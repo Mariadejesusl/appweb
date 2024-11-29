@@ -1,0 +1,5 @@
+Relatório de Detecção de Objetos - IMG_1379.png
+
+Objeto 1: vest
+Objeto 2: Helmet
+Objeto 3: worker

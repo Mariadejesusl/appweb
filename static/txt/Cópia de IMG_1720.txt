@@ -1,0 +1,4 @@
+Relatório de Detecção de Objetos - Cópia de IMG_1720.png
+
+Objeto 1: vest
+Objeto 2: worker

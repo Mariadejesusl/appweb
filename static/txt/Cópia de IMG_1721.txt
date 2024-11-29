@@ -1,0 +1,5 @@
+Relatório de Detecção de Objetos - Cópia de IMG_1721.png
+
+Objeto 1: vest
+Objeto 2: Gloves
+Objeto 3: worker

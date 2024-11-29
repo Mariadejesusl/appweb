@@ -1,0 +1,4 @@
+Relatório de Detecção de Objetos - IMG_1415.png
+
+Objeto 1: Helmet
+Objeto 2: vest

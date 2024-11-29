@@ -1,0 +1,5 @@
+Relatório de Detecção de Objetos - Cópia de IMG_1724.png
+
+Objeto 1: Helmet
+Objeto 2: Person
+Objeto 3: Person
